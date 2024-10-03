@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xuhao42.github.io/2024/10/03/Welcome-to-My-Blog/</loc>
-    
-    <lastmod>2024-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xuhao42.github.io/about/index.html</loc>
     
     <lastmod>2024-10-03</lastmod>
@@ -29,9 +20,18 @@
   </url>
   
   <url>
-    <loc>https://xuhao42.github.io/googled2a32990dc527546.html</loc>
+    <loc>https://xuhao42.github.io/2024/10/03/Welcome-to-My-Blog/</loc>
     
-    <lastmod>2024-10-02</lastmod>
+    <lastmod>2024-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuhao42.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-10-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>https://xuhao42.github.io/categories/article/</loc>
+    <loc>https://xuhao42.github.io/categories/Article/</loc>
     <lastmod>2024-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
