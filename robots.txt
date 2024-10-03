@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /tags/
+Disallow: /categories/
+Sitemap: https://xuhao42.github.io/sitemap.xml

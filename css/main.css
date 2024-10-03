@@ -1347,7 +1347,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #99f773;
+    background: #1ab3ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2045,7 +2045,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Cormorant Upright, Ma Shan Zheng, Roboto, NoTo Sans Simplified Chinese, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Cormorant Upright, Noto Sans Simplified Chinese, Roboto, NoTo Sans Simplified Chinese, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2231,7 +2231,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Cormorant Upright, Ma Shan Zheng, Roboto, NoTo Sans Simplified Chinese, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Cormorant Upright, Noto Sans Simplified Chinese, Roboto, NoTo Sans Simplified Chinese, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
